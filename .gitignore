@@ -1,0 +1,23 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Configuration and Keys
+.env
+
+# OS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.db
+history.json
+inventory.json
